@@ -23,12 +23,12 @@ Suicide Rate Analysis by Country and Continent
 - ![Continent Line Plots](Images/continent.png)
 
 - Boxplots highlighting distribution and outliers for countries within each continent.
-  ![Africa](Images/Africa.png)
-  ![Asia](Images/Asia.png)
-  ![Europe](Images/Europe.png)
-  ![North America Boxplot](Images/North America.png)
-  ![Oceania](Images/Oceania.png)
-  ![Europe](Images/Europe.png)
+  ![Africa Boxplot](Images/Africa.png)
+  ![Asia Boxplot](Images/Asia.png)
+  ![Europe Boxplot](Images/Europe.png)
+  ![North America Boxplot](Images/North_America.png)
+  ![Oceania Boxplot](Images/Oceania.png)
+  ![South America Boxplot](Images/South_America.png)
 
 
 ## Conclusion
