@@ -23,12 +23,12 @@ Suicide Rate Analysis by Country and Continent
 - ![Continent Line Plots](Images/continent.png)
 
 - Boxplots highlighting distribution and outliers for countries within each continent.
-  <img width="1182" height="470" alt="image" src="https://github.com/user-attachments/assets/2206dfb8-7458-42e5-8377-6b1bb1603882" />
-  <img width="1176" height="458" alt="image" src="https://github.com/user-attachments/assets/3d3a8125-ebe2-4109-bc04-c30ba0d0c870" />
-  <img width="1175" height="469" alt="image" src="https://github.com/user-attachments/assets/428cec52-5121-4bd3-88f8-17cb9be71935" />
-  <img width="910" height="459" alt="image" src="https://github.com/user-attachments/assets/202487e5-2a45-4d80-b7f6-b2fe7af5a817" />
-  <img width="885" height="457" alt="image" src="https://github.com/user-attachments/assets/66630b06-ddbf-45de-83ba-9c52a521924e" />
-  <img width="885" height="435" alt="image" src="https://github.com/user-attachments/assets/b0cfd0fe-6fe8-4e4c-87c3-7d2e8a58389c" />
+  ![Africa](Images/Africa.png)
+  ![Asia](Images/Asia.png)
+  ![Europe](Images/Europe.png)
+  ![North America Boxplot](Images/North America.png)
+  ![Oceania](Images/Oceania.png)
+  ![Europe](Images/Europe.png)
 
 
 ## Conclusion
