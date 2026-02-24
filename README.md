@@ -20,7 +20,7 @@ Suicide Rate Analysis by Country and Continent
 
 ## Visualizations
 - Line Plots  showing trends over time by continent and country.
-- ![Continent Line Plots](Images/continent.png))
+- ![Continent Line Plots](Images/continent.png)
 
 - Boxplots highlighting distribution and outliers for countries within each continent.
   ![Africa Boxplot](Images/Africa.png)
